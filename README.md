@@ -2,13 +2,17 @@
 
 ### Analista de Dados e Inteligência de Mercado Júnior ###
 
-Minha curiosidade em querer entender o comportamento humano, buscar padrões e questioná-los me levou a cursar Psicologia na UFSCar. Depois de anos atuando como psicóloga, em diferentes espaços, aquela mesma curiosidade me trouxe para a área de dados, na qual o objetivo de encontrar esses padrões não é só para entender e questioná-los, mas para usar esse conhecimento de forma a gerar impacto real e significativo. 
+A mesma curiosidade em querer entender o comportamento humano, buscar padrões e questioná-los que me levou a cursar Psicologia na UFSCar, anos depois, me trouxe para a área de dados. Hoje minha análise se sustenta através de outras ferramentas, mas ainda visa a geração de impactos positivos e significativos.
+
+---------------------------------------
 
 #### 🌱 Certificações ####
 
 Desde que decidi pela migração de carreira, venho aprendendo ferramentas e organizando novas formas de raciocínio, de forma autônoma, mas também através de cursos.
 
 Sou certificada pela Google em <a href="https://www.coursera.org/account/accomplishments/professional-cert/9U1QAQDZKA43">Data Analytics</a> e estou participando de um Bootcamp, na mesma temática, organizado pela <a href="https://www.womakerscode.org/"> WomakersCode</a>, uma organização que estimula e apoia a inserção de mulheres no mercado da tecnologia.
+
+-----------------------------------
 
 #### 🛠 Hard Skills ####
 
@@ -21,6 +25,8 @@ Python - limpeza, análise e visualização de dados, utlizando bibliotecas Nump
 Tableau - criação de dashboards para visualização de dados.
 
 Você pode verificar esses aprendizados nos meus repositórios.
+
+------------------------------------------
 
 #### 🗣 Soft Skills ####
 
