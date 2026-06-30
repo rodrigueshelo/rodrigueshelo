@@ -24,7 +24,7 @@ Sou certificada pela Google em <a href="https://www.coursera.org/account/accompl
 
 **Tableau** - criação de dashboards para visualização de dados.
 
-Você pode verificar esses aprendizados nos <a href= "https://github.com/rodrigueshelo?tab=repositoriesmeus"> meus repositórios</a>.
+Você pode verificar esses aprendizados nos <a href= "https://github.com/rodrigueshelo?tab=repositories"> meus repositórios</a>.
 
 ***
 
